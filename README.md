@@ -1,6 +1,6 @@
-# End to End Machine Learning - Diabetes Classifier
+# End to End Machine Learning
 # Colab 에서 개발 및 실행 (하단 실행방법 참조)
-# Github : https://github.com/MunJinSeo/E2E_ML_DiabetesClassifier
+# Github : https://github.com/MunJinSeo/MachineLearning
 <br>
 
 ## References 1
